@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## 程式碼位置
 
-畫面（src/app/change-password）
+畫面（src/app/change-password），
 背景顏色（src/styles.scss）
 
 ## 使用技術
