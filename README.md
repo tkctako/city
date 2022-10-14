@@ -9,7 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## 使用技術
 
-angular
+angular，
 bootstrap 4
 
 ## Development server
